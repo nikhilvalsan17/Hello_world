@@ -1,2 +1,2 @@
 # Hello_world
-My fisrt sample
+My first sample
